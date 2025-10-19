@@ -1,5 +1,3 @@
-# task1.b-python-program-to-get-results-for-realational-expressions
-This program demonstrates relational expressions in python
 # Initializing the value of a, b, and c
 a = int(input("Enter the First number: "))
 b = int(input("Enter the Second number: "))
